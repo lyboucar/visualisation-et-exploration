@@ -1,5 +1,5 @@
-# promutuel
- Visualisaton et exploration des donnees
+#  Visualisaton et exploration des donnees Airbnb de Québec
+
  
  On a deux onglets sur le rapport. 
   - Un onglet interactive qui permet d'avoir une visualisation interactve des données
